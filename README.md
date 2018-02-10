@@ -1,6 +1,7 @@
 # Visionaries
 DATA1030 Project
-
+For an in-depth analysis, look at our blog!
+https://1030visionaries.wordpress.com/
 
 FOLDER STRUCTURE
 
